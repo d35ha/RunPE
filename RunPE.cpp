@@ -8,8 +8,8 @@
 
 /*
 	BUILD:
-		g++ PEInjector.cpp -m32 -o RunPE.exe
-		g++ PEInjector.cpp -o RunPE.exe
+		g++ RunPE.cpp -m32 -o RunPE.exe
+		g++ RunPE.cpp -o RunPE.exe
 */
 
 /*
